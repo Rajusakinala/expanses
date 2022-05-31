@@ -1,0 +1,38 @@
+.newExpenseControls {
+    display: flex;
+    text-align: left;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 10px;
+  }
+  
+  label {
+    margin: 5px;
+    display: block;
+  }
+  
+  input {
+    padding: 10px;
+    border-radius: 6px;
+    border: 1px solid rgb(164, 148, 148);
+    width: 15rem;
+  }
+  
+  .newExpenseSubmitButton {
+    text-align: right;
+  }
+
+  button {
+    border: 1px solid rgb(131, 131, 225);
+    background-color: rgb(225, 0, 255);
+    color: white;
+    border-radius: 12px;
+    margin: 10px;
+    padding: 10px;
+  }
+  
+  button:hover{
+    background-color: #1c1cbc;
+    border: 1px solid orange;
+  }
+ 

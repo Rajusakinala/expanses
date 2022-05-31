@@ -10,8 +10,8 @@ const ExpenseDate = (props) => {
   return (
     <div className='expenseDate'>
       <div>{month}</div>
-      <div>{day}</div>
       <div>{year}</div>
+      <div>{day}</div>
     </div>
   );
 };

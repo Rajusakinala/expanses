@@ -1,0 +1,23 @@
+.newExpense {
+  background-color: #19b7f1;
+  padding: 10px;
+  margin: 20px auto;
+  width: 800px;
+  max-width: 95%;
+  border-radius: 12px;
+  text-align: center;
+}
+
+button {
+  padding: 10px 20px;
+  border: 1px solid #40005d;
+  background-color: #40005d;
+  color: white;
+  border-radius: 12px;
+  margin: 2px;
+}
+
+button:hover {
+  background-color: #1630c5;
+  border-color: #002660;
+}
